@@ -1,0 +1,15 @@
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.csproj.AssemblyReference.cache
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.AssemblyInfoInputs.cache
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.AssemblyInfo.cs
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.csproj.CoreCompileInputs.cache
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1.deps.json
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1.runtimeconfig.json
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1.dll
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/bin/Debug/net6.0/Software2KnowledgeCheck1.pdb
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.dll
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/refint/Software2KnowledgeCheck1.dll
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.pdb
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/Software2KnowledgeCheck1.genruntimeconfig.cache
+/Users/oodel/Desktop/CodeLouisville/Software-2-Knowledge-Check-1-main/Software2KnowledgeCheck1/Software2KnowledgeCheck1/obj/Debug/net6.0/ref/Software2KnowledgeCheck1.dll

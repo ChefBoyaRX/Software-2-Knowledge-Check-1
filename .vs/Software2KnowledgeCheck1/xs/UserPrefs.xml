@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{88E90F06-B615-42F5-B15A-A94D60FC1D96}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Software2KnowledgeCheck1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Software2KnowledgeCheck1/Building.cs">
+    <Files>
+      <File FileName="Software2KnowledgeCheck1/Building.cs" Line="18" Column="1" IsPinned="True" />
+      <File FileName="Software2KnowledgeCheck1/Construction.cs" Line="10" Column="52" />
+      <File FileName="Software2KnowledgeCheck1/City.cs" Line="16" Column="9" />
+      <File FileName="Software2KnowledgeCheck1/Apartment.cs" Line="9" Column="10" />
+      <File FileName="Software2KnowledgeCheck1/Program.cs" Line="18" Column="1" />
+      <File FileName="Software2KnowledgeCheck1/HighRise.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Software2KnowledgeCheck1" expanded="True">
+            <Node name="Software2KnowledgeCheck1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
